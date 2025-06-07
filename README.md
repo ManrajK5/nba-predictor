@@ -2,7 +2,7 @@
 
 This is a simple, lightweight NBA prediction tool that uses **Elo ratings** to estimate which team is more likely to win a game. Just enter the Elo ratings of the home and away teams, and the app will instantly calculate the win probability and predicted winner.
 
-🌐 **Live App**: [nba-predictor.s3-website.us-east-2.amazonaws.com](http://nba-predictor.s3-website.us-east-2.amazonaws.com)
+🌐 **Live App**: [nba-predictor.s3-website.us-east-2.amazonaws.com]([http://nba-predictor.s3-website.us-east-2.amazonaws.com](http://nba-predictor.s3-website.ca-central-1.amazonaws.com/)
 
 📊 **Elo Reference Sheet**: [Google Sheet](https://docs.google.com/spreadsheets/d/1tQ2c9uWPN0cGxutQAXPVWTAmoqASaYYvHVBW61cxKiU/edit#gid=254973529)
 
